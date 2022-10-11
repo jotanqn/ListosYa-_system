@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'fundacionlistosya'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2C5901339E004999A2CC1D1D75203EC3 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_9946D14D70EA42C3A9E1115EB2A3A795 }}
           package: .
